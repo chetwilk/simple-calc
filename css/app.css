@@ -10,9 +10,9 @@ body {
   height: 300px;
   width: 250px;
   border-radius: 10px;
-  position: relative;
+  /*position: relative;
   top: 80px;
-  left: 20%;
+  left: 20%;*/
   border: 1px solid #656;
   box-shadow: 10px 10px 20px #333;
 }
@@ -24,7 +24,7 @@ body {
   width: 220px;
   position: relative;
   left: 15px;
-  top:  0px;
+  top:  10px;
   height: 40px;
 }
 
