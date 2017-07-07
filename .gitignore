@@ -9,6 +9,9 @@
 .*
 ~*
 
+# Ignore all files ending with ~
+*~
+
 # ignore node/grunt dependency directories
 node_modules/
 
