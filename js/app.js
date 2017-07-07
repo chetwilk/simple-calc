@@ -10,7 +10,6 @@ function e() {
   try {
     c(eval(document.getElementById("d").value))
   }
-
   catch(e) {
     c('Error')
   }
